@@ -1,0 +1,6 @@
+[submodule "logalong-ios"]
+	path = logalong-ios
+	url = https://github.com/frankg0485/logalong-ios.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/frankg0485/logalong-ios.git
